@@ -10,7 +10,7 @@
 <a href="index.php" class="powrot">Powrót</a>
 <form action='gotowe.php' class="form">
       <div class="title">Dodaj instytucję</div>
-      <div class="subtitle">Wpisz dane isntytucji, którą chcesz dodać</div>
+      <div class="subtitle">Wpisz dane instytucji, którą chcesz dodać</div>
       <div class="input-container ic1">
         <input id="nazwa" class="input" type="text" placeholder=" " autocomplete="off"/>
         <div class="cut"></div>
