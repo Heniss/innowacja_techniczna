@@ -70,7 +70,7 @@ var mscdn = L.circle([52.250450, 21.006320], {
     radius: 80,
     stroke: false
 })
-mscdn.bindPopup("Mazowieckie Samorządowe Centrum Doskonalenia Nauczycieli");
+mscdn.bindPopup("MSCDN");
 
 var biblioteka_koszykowa = L.circle([52.2224,21.0186], {
     color: 'red',

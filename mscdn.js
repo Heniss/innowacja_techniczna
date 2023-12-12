@@ -30,6 +30,8 @@ for (let i=0; i<11; i++){
     data.push(zmienna);
 }
 
+var max_wykresu = parseInt(iloscosobnazywo+2);
+
 var ctx = document.getElementById('myChart');
 
 var myChart = new Chart(ctx, {

@@ -108,7 +108,7 @@ $page = $_SERVER['PHP_SELF'];
         </div>
         <div class="grid-child-purple">
             <div class="tekstnapisu">
-            <div class="napisnagorze">Mazowieckie Samorządowe Centrum Doskonalenia Nauczycieli</div>
+            <div class="napisnagorze">MSCDN</div>
             </div>
             <div class="flex-containera">
                 <div class="flex-i">
